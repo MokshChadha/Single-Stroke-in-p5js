@@ -16,3 +16,5 @@ function draw() {
   ellipse(mouseX,mouseY,15,15,90);
   
 }
+function mousePressed()
+{ background(255,255,51);}
